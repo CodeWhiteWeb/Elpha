@@ -55,6 +55,7 @@ Elpha uses Discord slash commands however the custom command's prefix will be ad
 
 📜 [**Fad The Chad**](https://github.com/FadTheChad)
 📜 [**TonyG**](https://github.com/tonyG433)
+📜 [**Indie**](https://github.com/indiewastaken)
 
 # Github
 
