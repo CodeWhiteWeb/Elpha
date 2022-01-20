@@ -29,6 +29,7 @@
     "npm-api": "^1.0.1",
     "pngjs": "^6.0.0",
     "superagent": "^6.1.0",
+    "node": "^17.3.1",
     "weather-js": "^2.0.0"
   },
   "devDependencies": {
